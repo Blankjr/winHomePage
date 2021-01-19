@@ -1,0 +1,11 @@
+// {
+    //     "key": "ctrl+shift+x",
+    //     "command": "-workbench.view.extensions"
+    // },
+    {
+        "key": "ctrl+shift+c",
+        "command": "-workbench.action.terminal.openNativeConsole",
+        "when": "!terminalFocus"
+    }
+
+//}

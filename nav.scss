@@ -1,0 +1,18 @@
+$light-grey: #e5e5e5;
+nav {
+  display: flex;
+  justify-content: center;
+}
+nav ul {
+  list-style: none;
+  display: inline-flex;
+}
+nav ul li {
+  margin-right: 10px;
+  text-align: center;
+}
+nav ul li a {
+  text-decoration: none;
+  font-size: 1.563em;
+  color: $light-grey;
+}

@@ -1,0 +1,3 @@
+Open New Command Prompt 	Ctrl+Shift+C 	workbench.action.terminal.openNativeConsole
+
+Show Extensions 	Ctrl+Shift+X 	workbench.view.extensions
