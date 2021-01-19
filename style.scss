@@ -71,3 +71,9 @@ footer {
   margin: 2em;
   text-align: center;
 }
+@media (max-width: 800px) {
+  .gallery {
+    grid-template-columns: 100%;
+    grid-template-rows: 100%;
+  }
+}

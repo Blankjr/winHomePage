@@ -101,4 +101,13 @@ footer {
   margin: 2em;
   text-align: center;
 }
+
+@media (max-width: 800px) {
+  .gallery {
+    -ms-grid-columns: 100%;
+        grid-template-columns: 100%;
+    -ms-grid-rows: 100%;
+        grid-template-rows: 100%;
+  }
+}
 /*# sourceMappingURL=style.css.map */
